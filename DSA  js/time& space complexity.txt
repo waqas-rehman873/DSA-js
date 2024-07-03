@@ -1,0 +1,5 @@
+time complexity --the amount of time require to solve a problem or program effectively and efficiency,as of input size
+space complexity-- the amount of space or memory  require to solve a problem ,as of function input size
+big-o o-notation-- worst case complexity 
+omega  notation-- best case complexity
+theta notation--  average case complexity 

@@ -1,0 +1,12 @@
+-----arrays ------
+insert/ remove -- at end is linear o(1)--at beginning o(n)
+access o(1)
+search o(n)
+push/pop O(1)
+shift/unshift/concat/reduce /slice /splice o(n)
+map /foreach /filter/reduce/ o(n) while in callback func it might be qudratic
+-----objects------
+insert  remove o(1)
+access O(1)
+Search O(n)
+objects.keys O(n)

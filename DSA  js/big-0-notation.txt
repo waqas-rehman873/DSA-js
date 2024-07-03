@@ -1,0 +1,25 @@
+big-o notation represents worst case complexity 
+it describes complexity of algo in alegrebic terms
+two imp characteristics
+--it express in terms of input 
+--it focus big picture rather then into 
+
+big-o
+suppose we have to calculate the time complexity of 
+let arr=[2,3,1,6] sum first and last element  
+step 1-- 2+6--> result 8
+let arr=[2,3,1,3,4,6,5]
+2+7=9
+as size increase but n numbers of step remain same
+--o(n)=>o(1)--also stack and queue 
+----
+if there is 2d then the time complexity will be  
+two loop there will be time complexiy is 
+m--size of outerloop*n-size of inner loop
+--o(n^2)
+if have 3 d array then time complexity 
+will be 
+--o(n^3)
+--O(log(n))
+binary search ,binary tree
+--o(nlog(n))---sorting techniques
